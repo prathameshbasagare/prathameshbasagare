@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Prathamesh Basagare — Software Engineer, WordPress and PHP">
+  <rect x="1" y="1" width="1198" height="238" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="56" y="60" width="6" height="120" rx="3" fill="#7b90ff"/>
+  <text x="88" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#7b90ff">&lt;?php add_action( 'init', 'build_useful_things' );</text>
+  <text x="86" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f0f6fc">Prathamesh Basagare</text>
+  <text x="88" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#9198a1">Software Engineer · WordPress &amp; PHP · TypeScript</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#9198a1">
+    <text x="1016" y="96">WooCommerce</text>
+    <text x="1016" y="126">LearnDash LMS</text>
+    <text x="1016" y="156">Next.js</text>
+  </g>
+  <g fill="#7b90ff">
+    <circle cx="1000" cy="91" r="4"/><circle cx="1000" cy="121" r="4"/><circle cx="1000" cy="151" r="4"/>
+  </g>
+</svg>
