@@ -99,7 +99,7 @@ I'm an Associate Software Engineer at **[WisdmLabs](https://wisdmlabs.com)**, wh
 <!-- WPORG:START -->
 | Plugin | Version | Tested up to | Active installs | Downloads | Last updated |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Listonix: Listing Importer for HivePress](https://wordpress.org/plugins/listonix-listing-importer-for-hivepress/) | 1.0.2 | 7.1.4 | <10 | 203 | 2026-10-30 |
+| [Listonix: Listing Importer for HivePress](https://wordpress.org/plugins/listonix-listing-importer-for-hivepress/) | 1.0.2 | 7.1.4 | <10 | 257 | 2026-10-30 |
 <!-- WPORG:END -->
 
 <sub>Refreshed daily by a GitHub Action from the WordPress.org Plugins API.</sub>
