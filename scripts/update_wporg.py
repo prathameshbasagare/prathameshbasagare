@@ -4,6 +4,7 @@ Fetches every plugin published by the WordPress.org author below and rewrites
 the block between the WPORG markers. Uses only the standard library.
 """
 
+import html
 import json
 import re
 import sys
@@ -46,10 +47,11 @@ def render(plugins):
         "| :-- | :-: | :-: | :-: | :-: | :-: |",
     ]
     for p in plugins:
+        name = html.unescape(p.get("name", "")).replace("\u2014", "-")
         url = f"https://wordpress.org/plugins/{p['slug']}/"
         updated = str(p.get("last_updated", "")).split(" ")[0]
         rows.append(
-            f"| [{p['name']}]({url}) | {p.get('version', '')} | {p.get('tested', '')} "
+            f"| [{name}]({url}) | {p.get('version', '')} | {p.get('tested', '')} "
             f"| {installs(int(p.get('active_installs', 0)))} | {int(p.get('downloaded', 0)):,} | {updated} |"
         )
     return "\n".join(rows)

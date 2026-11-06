@@ -34,7 +34,7 @@ I'm an Associate Software Engineer at **[WisdmLabs](https://wisdmlabs.com)**, wh
       <br><br>
       <code>PHP</code> <code>WP-Cron</code> <code>Site Health API</code>
       <br><br>
-      <a href="https://github.com/prathameshbasagare/fadewatch-abandoned-closed-add-on-checker">Source</a>
+      <a href="https://wordpress.org/plugins/fadewatch-abandoned-closed-plugin-checker/">WordPress.org</a> · <a href="https://github.com/prathameshbasagare/fadewatch-abandoned-closed-add-on-checker">Source</a>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,8 @@ I'm an Associate Software Engineer at **[WisdmLabs](https://wisdmlabs.com)**, wh
 <!-- WPORG:START -->
 | Plugin | Version | Tested up to | Active installs | Downloads | Last updated |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [Listonix: Listing Importer for HivePress](https://wordpress.org/plugins/listonix-listing-importer-for-hivepress/) | 1.0.2 | 7.1.4 | <10 | 257 | 2026-10-30 |
+| [Listonix: Listing Importer for HivePress](https://wordpress.org/plugins/listonix-listing-importer-for-hivepress/) | 1.0.2 | 7.1.4 | <10 | 269 | 2026-10-30 |
+| [FadeWatch – Abandoned & Closed Plugin Checker](https://wordpress.org/plugins/fadewatch-abandoned-closed-plugin-checker/) | 1.0.3 | 7.1.4 | <10 | 14 | 2026-11-06 |
 <!-- WPORG:END -->
 
 <sub>Refreshed daily by a GitHub Action from the WordPress.org Plugins API.</sub>
