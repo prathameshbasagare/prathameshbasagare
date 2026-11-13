@@ -99,7 +99,7 @@ I'm an Associate Software Engineer at **[WisdmLabs](https://wisdmlabs.com)**, wh
 <!-- WPORG:START -->
 | Plugin | Version | Tested up to | Active installs | Downloads | Last updated |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| [FadeWatch – Abandoned & Closed Plugin Checker](https://wordpress.org/plugins/fadewatch-abandoned-closed-plugin-checker/) | 1.0.3 | 7.1.4 | <10 | 304 | 2026-11-06 |
+| [FadeWatch – Abandoned & Closed Plugin Checker](https://wordpress.org/plugins/fadewatch-abandoned-closed-plugin-checker/) | 1.0.3 | 7.1.4 | <10 | 315 | 2026-11-06 |
 | [Listonix: Listing Importer for HivePress](https://wordpress.org/plugins/listonix-listing-importer-for-hivepress/) | 1.0.2 | 7.1.4 | <10 | 302 | 2026-10-30 |
 <!-- WPORG:END -->
 
